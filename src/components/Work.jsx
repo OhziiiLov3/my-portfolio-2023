@@ -36,7 +36,7 @@ const Work = () => {
                    {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Full Stack Python/Django Application
+                            Python/Django Project
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -53,7 +53,7 @@ const Work = () => {
                    {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            ReactJs-Axios Weather Application
+                            ReactJs Weather API
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
@@ -69,7 +69,7 @@ const Work = () => {
                 <div style={{backgroundImage: `url(${WorkImg})` }}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                    {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='text-2xl text-center font-bold text-white tracking-wider'>
                             React Js Application
                         </span>
                         <div className='pt-8 text-center'>
@@ -86,8 +86,8 @@ const Work = () => {
                 <div style={{backgroundImage: `url(${Project2Img})` }}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                    {/* Hover Effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
-                            Full Stack Python/Django Application
+                        <span className='text-2xl text-center font-bold text-white tracking-wider'>
+                            Python/Django Application
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="/">
